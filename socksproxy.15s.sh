@@ -5,7 +5,7 @@
 # <bitbar.author>Taha Al-Jody</bitbar.author>
 # <bitbar.author.github>TA3</bitbar.author.github>
 # <bitbar.desc>Enable/Disable Socks proxy + status (useful for ssh tunnelling)</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://github.com/TA3/bitbar-plugins/raw/master/socksproxy_screenshot.png</bitbar.image>
 # <bitbar.dependencies>bash</bitbar.dependencies>
 
 # BitBar CPU Load plugin
